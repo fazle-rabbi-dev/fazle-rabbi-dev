@@ -1,7 +1,8 @@
-# Hi there 👋
-### I'm Fazle Rabbi
+# Hello, there 😊
 
-- 📖 I’m currently studying in class twelve ...
+- __📖 I’m currently studying in class twelve ...__
 
-- 💙 I love coding...
-![](photo.jpeg)
+- **💙 I love coding...**
+![](photo.jpeg)  
+
+### <i>Find me on social media:</i>
