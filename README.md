@@ -25,9 +25,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
+
+<img width="40" height="40" src="https://user-images.githubusercontent.com/71178740/164567936-1613349c-8aad-4327-a335-de14f3f0196a.png" alt="">
+<img width="40" height="40" src="https://user-images.githubusercontent.com/71178740/164568069-7f88a96e-c344-454c-99d8-e2b7ef8da77c.png" alt="">
+<img width="40" height="40" src="https://user-images.githubusercontent.com/71178740/164568113-039fbbeb-4bd8-4665-9db4-569dc994d7ba.png" alt="">
 <img width="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
 <img width="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 <img width="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
