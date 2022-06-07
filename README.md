@@ -1,18 +1,21 @@
-# Hello, there 😊
+<p align="center"><h1>Hello, there...</h1></p>
+
+
 - 👋  I’m Fazle Rabbi
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning front end web development
+- 🌱 I’m currently learning web development
 - 📫 How to reach me ⤵️
     * https://cutt.ly/rabbi
 
 
+# 👨‍💻 My Skills:
 
-### My Skills:
-* Html5
-* Css3
-* Bootstrap5
-* Javascript
-* Git & Github
+* HTML
+* CSS
+* JAVASCRIPT
+* BOOTSTRAP
+* SASS
+* GIT & GITHUB
 
 ---
 
@@ -28,13 +31,10 @@
 
 <img width="40" height="40" src="https://user-images.githubusercontent.com/71178740/164567936-1613349c-8aad-4327-a335-de14f3f0196a.png" alt="">
 <img width="40" height="40" src="https://user-images.githubusercontent.com/71178740/164568069-7f88a96e-c344-454c-99d8-e2b7ef8da77c.png" alt="">
-<img width="40" height="40" src="https://user-images.githubusercontent.com/71178740/164568113-039fbbeb-4bd8-4665-9db4-569dc994d7ba.png" alt="">
 <img width="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
 <img width="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 <img width="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
 <img width="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg">
-<img width="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-
 
 
 
