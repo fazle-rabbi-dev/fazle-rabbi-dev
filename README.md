@@ -1,41 +1,21 @@
-<p align="center"><h1>Hello, there...</h1></p>
+<h2 align="center">About Me</h2>
+
+- 👨‍💻 `Im Fazle Rabbi`
+- 👀 `Im interested in coding`
+- 🌱 `Im currently learning web development`
 
 
-- 👋  I’m Fazle Rabbi
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
-- 📫 How to reach me ⤵️
-    * https://cutt.ly/rabbi
+<h2 align="center">My Skills</h2>
 
+> `HTML` `CSS` `Javascript` `Bootstrap` `Tailwindcss` `Sass` `Typescript` `React` `Git & Github`
 
-# 👨‍💻 My Skills:
-
-* HTML
-* CSS
-* JAVASCRIPT
-* BOOTSTRAP
-* SASS
-* GIT & GITHUB
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://cutt.ly/frfb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
-<a href="https://cutt.ly/frtwitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://cutt.ly/frig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul181" height="30" width="40" /></a>
-
-
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">Languages And Tools:</h2>
 <p align="left"> 
 
-<img width="40" height="40" src="https://user-images.githubusercontent.com/71178740/164567936-1613349c-8aad-4327-a335-de14f3f0196a.png" alt="">
-<img width="40" height="40" src="https://user-images.githubusercontent.com/71178740/164568069-7f88a96e-c344-454c-99d8-e2b7ef8da77c.png" alt="">
-<img width="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
-<img width="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-<img width="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
-<img width="40" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg">
+<p >
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
 
+</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fh-rabbi)](https://github.com/anuraghazra/github-readme-stats)
@@ -48,3 +28,10 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fh-rabbi)  
 
 ![Profile views](https://gpvc.arturio.dev/fh-rabbi)  
+
+<h2 align="center">Connect With Me</h2>
+<p align="center">
+<a href="https://cutt.ly/frfb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
+<a href="https://cutt.ly/frtwitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="https://cutt.ly/frig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul181" height="30" width="40" /></a>
+
