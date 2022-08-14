@@ -1,12 +1,10 @@
-<h1 align="center">ABOUT ME</h1>
+<div align="center">
 
- Hello there, my name is `fazle rabbi` and i liv in 🇧🇩 , i love _coding_.Currently im learning _Web Development_
+# Hi 👋 im Fazle Rabbi
 
-<h1 align="center">MY SKILLS</h1>
+</div>
 
-> `HTML`  `CSS`  `Javascript`  `Bootstrap`  `Tailwindcss`  `Sass`  `Typescript`  `React`  `Git & Github`
-
-<h4 align="center">Languages And Tools</h4>
+<h3 align="center">Languages And Tools</h3>
 <p align="left"> 
 
 <p >
