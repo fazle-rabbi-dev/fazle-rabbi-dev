@@ -3,17 +3,16 @@
 
 ![Profile views](https://gpvc.arturio.dev/fh-rabbi)  
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **C Programming**
 
 - 👯 I’m looking to collaborate on **Open project**
 
-- 💬 Ask me about **Javascript,React**
+- 💬 Ask me about **Javascript,React js**
 
 - 📫 How to reach me **https://cutt.ly/rabbi**
 
 - ⚡ Fun fact **I think im a full stack developer**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/fozley.rabbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fozle.rabbi" height="30" width="40" /></a>
 </p>
