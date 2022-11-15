@@ -3,7 +3,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/fh-rabbi)  
 
-- 🌱 I’m currently learning **Bash Shell Scripting**
+- 🌱 I’m currently learning **Python Programming 🐍**
 
 - 👯 I’m looking to collaborate on **Open project**
 
