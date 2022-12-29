@@ -3,7 +3,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/fh-rabbi)  
 
-- 🌱 I’m currently learning **Python Programming 🐍**
+- 🌱 I’m currently learning **Java Programming ☕**
 
 - 👯 I’m looking to collaborate on **Open project**
 
