@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript,React js**
 
-- 📫 How to reach me **https://cutt.ly/rabbi**
+- 📫 How to reach me **https://linktr.ee/rabbi43**
 
 - ⚡ Fun fact **I think im a full stack developer**
 
