@@ -34,10 +34,10 @@
 <!--</p>-->
 
 
-<a href="https://github.com/khansaad1275/github-readme-stats">
-  <img width="100%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fh-rabbi&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache" alt="Saad Maqsood github stats" />
+<a href="https://github.com/fh-rabbi/github-readme-stats">
+  <img width="100%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fh-rabbi&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache" alt="Fazle Rabbi github stats" />
 </a>
-<a href="https://github.com/khansaad1275/github-readme-stats">
+<a href="https://github.com/fh-rabbi/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img width="100%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fh-rabbi&layout=compact&theme=chartreuse-dark&cache" />
 </a>
