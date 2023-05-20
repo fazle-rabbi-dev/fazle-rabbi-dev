@@ -46,5 +46,5 @@
 </a>
 <a href="https://github.com/fh-rabbi/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img width="100%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fh-rabbi&exclude_repo=XploitSpy,Random-Color,Gmail-Bomber,Evil-Text,rMusic&layout=compact&theme=chartreuse-dark&cache" />
+  <img width="100%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fh-rabbi&exclude_repo=XploitSpy,Random-Color,Gmail-Bomber,Evil-Text,rMusic,Acode-Backup&layout=compact&theme=chartreuse-dark&cache" />
 </a>
