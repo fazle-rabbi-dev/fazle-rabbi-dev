@@ -26,7 +26,8 @@ Welcome to my GitHub profile! I'm a passionate MERN stack web developer who love
 
 I believe in continuous learning and staying up-to-date with the latest technologies. Currently, I'm focusing on:
 
-- Deepening my knowledge of **React Native** to build mobile applications.
+- 📚 Prioritizing academic studies for upcoming exams. Temporarily pausing technology and web development learning. Will resume soon to explore new technologies and expand my skills.
+
 
 ## 👨‍💻 Projects
 
