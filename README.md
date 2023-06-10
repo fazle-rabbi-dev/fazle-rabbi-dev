@@ -43,7 +43,7 @@ Feel free to explore my GitHub repositories for more projects and code samples!
 I'm always interested in connecting with fellow developers and discussing new opportunities. You can reach me through the following channels:
 
 - Portfolio: [View](https://fazle-rabbi.netlify.app/)
-- LinkedIn: [im-fazle-rabbi](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [im-fazle-rabbi](https://www.linkedin.com/in/im-fazle-rabbi)
 - Email: [fazle rabbi](mailto:fazlerabbi1343@gmail.com)
 
 Let's collaborate, learn, and build amazing web applications together! 😊
