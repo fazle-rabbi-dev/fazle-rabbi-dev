@@ -1,6 +1,6 @@
 <h1>Hey 👋, I'm Fazle Rabbi</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-FazleRabbi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/" alt="" />
   <img src="https://img.shields.io/badge/-FazleRabbi-blue?style=flat-square&logo=Medium&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/" alt="" />
 </p>
