@@ -1,9 +1,10 @@
-<span>Hey 👋,</span>
+<h1>Hey 👋, I'm Fazle Rabbi</h1>
 
-<h1> I'm Fazle Rabbi</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/-FazleRabbi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/" alt="" />
+  <img src="https://img.shields.io/badge/-FazleRabbi-blue?style=flat-square&logo=Medium&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/" alt="" />
+</p>
 
-<img src="https://img.shields.io/badge/-FazleRabbi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/" alt="" />
-<img src="https://img.shields.io/badge/-FazleRabbi-blue?style=flat-square&logo=Medium&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/" alt="" />
 <p>My expertise lies in the MERN (MongoDB, Express, React, Node.js) stack, a powerful combination that enables me to build full-stack web applications with seamless integration between the front and back ends. From crafting intuitive user interfaces using React to designing robust server-side logic with Node.js, I'm passionate about every aspect of the development process.</p>
 
 <h2>⚡️ A Few Quick Facts</h2>
