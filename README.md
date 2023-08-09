@@ -6,14 +6,16 @@
 <p>My expertise lies in the MERN (MongoDB, Express, React, Node.js) stack, a powerful combination that enables me to build full-stack web applications with seamless integration between the front and back ends. From crafting intuitive user interfaces using React to designing robust server-side logic with Node.js, I'm passionate about every aspect of the development process.</p>
 
 <h2>⚡️ A Few Quick Facts</h2>
-<li>🌍 I'm based in Bangladesh</li>
-<li>🔭 Im currently enhancing my <code>FrontEnd</code> skills</li>
-<li>📝 I regulary write articles on <a target="_blank" href="https://medium.com/@fhrabbi777">Medium</a></li>
-<li>💬 Ping me about react, next, node, express & bla bla bla!.</li>
-<li>📙 Check out my <a target="_blank" href="#">Resume</a></li>
-<li>🖥️ See my portfolio at<a href="#"> MyPortfllio</a></li>
-<li>✉️ You can contact me at<a href="mailto:fazlerabbi1343@gmail.com"> DM</a></li>
-<li>🎉 Fun Fact: i think im a <code>Full Stack developer</code>!</li>
+<ul>
+  <li>🌍 I'm based in Bangladesh</li>
+  <li>🔭 Im currently enhancing my <code>FrontEnd</code> skills</li>
+  <li>📝 I regulary write articles on <a target="_blank" href="https://medium.com/@fhrabbi777">Medium</a></li>
+  <li>💬 Ping me about react, next, node, express & bla bla bla!.</li>
+  <li>📙 Check out my <a target="_blank" href="#">Resume</a></li>
+  <li>🖥️ See my portfolio at<a href="#"> MyPortfllio</a></li>
+  <li>✉️ You can contact me at<a href="mailto:fazlerabbi1343@gmail.com"> DM</a></li>
+  <li>🎉 Fun Fact: i think im a <code>Full Stack developer</code>!</li>
+</ul>
 
 <h2>🚀 Some Technologies I Use</h2>
 <p align="left">
@@ -43,26 +45,29 @@
 </p>
 
 <h2>✍️ Recent Blogs</h2>
-<li>
-  <a target="_blank" href="https://dev.to/fhrabbi/execute-shell-commands-using-nodejs-a-powerful-integration-1fp6">
-    How to execute (bash/shell) command using Node.js
-  </a>
-</li>
-<li>
-  <a target="_blank" href="#">
-    How to use your android phone effectively for coding as a web developer
-  </a>
-</li>
-<li>
-  <a target="_blank" href="#">
-    Some awesome React.js packages you should know right now
-  </a>
-</li>
-<li>
-  <a target="_blank" href="#">
-    Top awesome Node.js modules that made your life easy
-  </a>
-</li>
+<ul>
+  
+  <li>
+    <a target="_blank" href="https://dev.to/fhrabbi/execute-shell-commands-using-nodejs-a-powerful-integration-1fp6">
+      How to execute (bash/shell) command using Node.js
+    </a>
+  </li>
+  <li>
+    <a target="_blank" href="#">
+      How to use your android phone effectively for coding as a web developer
+    </a>
+  </li>
+  <li>
+    <a target="_blank" href="#">
+      Some awesome React.js packages you should know right now
+    </a>
+  </li>
+  <li>
+    <a target="_blank" href="#">
+      Top awesome Node.js modules that made your life easy
+    </a>
+  </li>
+</ul>
 
 <!--Projects-->
 <h2>⚒️ Some Of My Notable Projects</h2>
