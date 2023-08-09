@@ -8,13 +8,9 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
   <li>🌍 I'm based in Bangladesh</li>
-  <br />
   <li>🔭 Im currently enhancing my <code>FrontEnd</code> skills</li>
-  <br />
   <li>📝 I regulary write articles on <a target="_blank" href="https://medium.com/@fhrabbi777">Medium</a></li>
-  <br />
   <li>💬 Ping me about react, next, node, express & bla bla bla!.</li>
-  <br />
 <!--  <li>📙 Check out my <a target="_blank" href="#">Resume</a></li>
   <br />
   <li>🖥️ See my portfolio at<a href="#"> MyPortfllio</a></li>
@@ -82,16 +78,16 @@
   <li><strong>Phone Book</strong></li>
   <ul>
     <li>An awesome CRUD web app to manage contacts(Phone Numbers) easily</li>
-    <a target="_blank" href="https://phone-b00k.vercel.app">🌍 Go live</a>
-    <a target="_blank" href="https://github.com/fh-rabbi/phone-book">👁️ View code</a>
+    <a target="_blank" href="https://phone-b00k.vercel.app">✔︎ Go live</a>
+    <a target="_blank" href="https://github.com/fh-rabbi/phone-book">️𓁹 View code</a>
   </ul>
 </ul>
 <ul>
   <li><strong>Passport Size Image Maker</strong></li>
   <ul>
     <li>Generate Passport Size Image Online With A Moment</li>
-    <a target="_blank" href="#">🌍 Go live</a>
-    <a target="_blank" href="https://github.com/fh-rabbi/Passport-Size-Image-Maker">👁️ View code</a>
+    <a target="_blank" href="https://passport-size-image-maker.vercel.app/">✔︎ Go live</a>
+    <a target="_blank" href="https://github.com/fh-rabbi/Passport-Size-Image-Maker">️𓁹 View code</a>
   </ul>
 </ul>
 
