@@ -38,7 +38,7 @@
 </li>
 
 <!--Projects-->
-<h2>⚒️ Some of my notable projects</h2>
+<h2>⚒️ Some Of My Notable Projects</h2>
 <ul>
   <li><strong>Phone Book</strong></li>
   <ul>
