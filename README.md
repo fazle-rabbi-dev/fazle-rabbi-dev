@@ -17,8 +17,8 @@
 
 <h2>✍️ Recent Blogs</h2>
 <li>
-  <a href="#">
-    How to execute bash command using nodejs
+  <a href="https://dev.to/fhrabbi/execute-shell-commands-using-nodejs-a-powerful-integration-1fp6">
+    How to execute (bash/shell) command using Node.js
   </a>
 </li>
 <li>
@@ -28,12 +28,12 @@
 </li>
 <li>
   <a href="#">
-    Some awesome React packages you should know right now
+    Some awesome React.js packages you should know right now
   </a>
 </li>
 <li>
   <a href="#">
-    Top awesome nodejs modules that made your life easy
+    Top awesome Node.js modules that made your life easy
   </a>
 </li>
 
