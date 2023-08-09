@@ -8,12 +8,19 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
   <li>🌍 I'm based in Bangladesh</li>
+  <br />
   <li>🔭 Im currently enhancing my <code>FrontEnd</code> skills</li>
+  <br />
   <li>📝 I regulary write articles on <a target="_blank" href="https://medium.com/@fhrabbi777">Medium</a></li>
+  <br />
   <li>💬 Ping me about react, next, node, express & bla bla bla!.</li>
-  <li>📙 Check out my <a target="_blank" href="#">Resume</a></li>
+  <br />
+<!--  <li>📙 Check out my <a target="_blank" href="#">Resume</a></li>
+  <br />
   <li>🖥️ See my portfolio at<a href="#"> MyPortfllio</a></li>
+  <br />
   <li>✉️ You can contact me at<a href="mailto:fazlerabbi1343@gmail.com"> DM</a></li>
+  <br />-->
   <li>🎉 Fun Fact: i think im a <code>Full Stack developer</code>!</li>
 </ul>
 
@@ -88,7 +95,6 @@
   </ul>
 </ul>
 
-<a target="_blank" href="https://github.com/fh-rabbi/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img width="100%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fh-rabbi&exclude_repo=XploitSpy,Random-Color,Gmail-Bomber,Evil-Text,rMusic,Acode-Backup&layout=compact&theme=chartreuse-dark&cache" />
-</a>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fh-rabbi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fazle's github stats" /></a> | <<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fh-rabbi&exclude_repo=XploitSpy,Random-Color,Gmail-Bomber,Evil-Text,rMusic,Acode-Backup&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
