@@ -1,7 +1,4 @@
 <h1>Hey 👋, I'm Fazle Rabbi</h1>
-<code>
-Code | Sleep | Create | Repeat - Turning Ideas into Reality!
-</code>
 <p align="left">
   <img src="https://img.shields.io/badge/-FazleRabbi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/" alt="" />
   <img src="https://img.shields.io/badge/-FazleRabbi-blue?style=flat-square&logo=Medium&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/" alt="" />
@@ -84,16 +81,16 @@ Code | Sleep | Create | Repeat - Turning Ideas into Reality!
 <h2>⚒️ Some Of My Notable Work</h2>
 <ul>
   <li>
-    <h4>Phone-Book</h4>
-    An awesome CRUD web app to store contacts (Phone-Numbers) easily.
+    <strong>Phone-Book</strong>
+    <p>An awesome CRUD web app to store contacts (Phone-Numbers) easily.</p>
     <div>
       <a target="_blank" href="https://phone-b00k.vercel.app">✔︎ Go live</a>
       <a target="_blank" href="https://github.com/fh-rabbi/phone-book">️𓁹 View code</a>
     </div>
   </li>
   <li>
-    <h4>Tech-Canvas</h4>
-    A Next.js-powered Modern,SEO-friendly blog platform.
+    <strong>Tech-Canvas</strong>
+    <p>A Next.js-powered Modern,SEO-friendly blog platform.</p>
     <div>
       <a target="_blank" href="https://tech-canvas.vercel.app">✔︎ Go live</a>
       <a target="_blank" href="https://github.com/fh-rabbi/tech-canvas">️𓁹 View code</a>
