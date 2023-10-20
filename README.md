@@ -1,4 +1,7 @@
 <h1>Hey 👋, I'm Fazle Rabbi</h1>
+<code>
+Code | Sleep | Create | Repeat - Turning Ideas into Reality!
+</code>
 <p align="left">
   <img src="https://img.shields.io/badge/-FazleRabbi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/" alt="" />
   <img src="https://img.shields.io/badge/-FazleRabbi-blue?style=flat-square&logo=Medium&logoColor=white&link=https://www.linkedin.com/in/jonathangin/)](https://www.linkedin.com/in/jonathangin/" alt="" />
@@ -8,8 +11,8 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
   <li>🌍 I'm based in Bangladesh</li>
-  <li>🔭 Im currently enhancing my <code>FrontEnd</code> skills</li>
-  <li>📝 I regulary write articles on <a target="_blank" href="https://medium.com/@fhrabbi777">Medium</a></li>
+  <li>🔭 Im currently enhancing my <code>Backend</code> skills</li>
+  <li>📝 I write articles on <a target="_blank" href="https://medium.com/@fazle-rabbi-dev">Medium</a>,<a href="https://tech-canvas.vercel.app/">Tech-Canvas</a></li>
   <li>💬 Ping me about react, next, node, express & bla bla bla!.</li>
 <!--  <li>📙 Check out my <a target="_blank" href="#">Resume</a></li>
   <br />
@@ -17,7 +20,7 @@
   <br />
   <li>✉️ You can contact me at<a href="mailto:fazlerabbi1343@gmail.com"> DM</a></li>
   <br />-->
-  <li>🎉 Fun Fact: i think im a <code>Full Stack developer</code>!</li>
+  <li>🎯 Mission: Become a <code>Full Stack developer</code>!</li>
 </ul>
 
 <h2>🚀 Some Technologies I Use</h2>
@@ -51,45 +54,53 @@
 <ul>
   
   <li>
-    <a target="_blank" href="https://dev.to/fhrabbi/execute-shell-commands-using-nodejs-a-powerful-integration-1fp6">
+    <a target="_blank" href="https://dev.to/fazle-rabbi-dev/execute-shell-commands-using-nodejs-a-powerful-integration-1fp6">
       How to execute (bash/shell) command using Node.js
     </a>
   </li>
   <li>
-    <a target="_blank" href="#">
-      How to use your android phone effectively for coding as a web developer
+    <a target="_blank" href="https://dev.to/fazle-rabbi-dev/what-is-a-render-prop-in-react-how-does-it-work-1c5p">
+      What is a Render Prop in React? How Does it Work?
     </a>
   </li>
   <li>
-    <a target="_blank" href="#">
-      Some awesome React.js packages you should know right now
+    <a target="_blank" href="https://tech-canvas.vercel.app/blog/launch-your-website-for-free-top-7-incredible-web-hosting-platforms">
+      Launch Your Website for FREE: Top 7 Incredible Web Hosting Platforms! 🚀🌐✨
     </a>
   </li>
   <li>
-    <a target="_blank" href="#">
-      Top awesome Node.js modules that made your life easy
+    <a target="_blank" href="https://tech-canvas.vercel.app/blog/how-to-install-nodejs-on-android-with-termux">
+      How To Install Node.js on Android with Termux?
+    </a>
+  </li>
+  <li>
+    <a target="_blank" href="https://tech-canvas.vercel.app/blog/amazing-nodejs-modules">
+      Life Changing Node.js Modules! Explore now
     </a>
   </li>
 </ul>
 
 <!--Projects-->
-<h2>⚒️ Some Of My Notable Projects</h2>
+<h2>⚒️ Some Of My Notable Work</h2>
 <ul>
-  <li><strong>Phone Book</strong></li>
-  <ul>
-    <li>An awesome CRUD web app to manage contacts(Phone Numbers) easily</li>
-    <a target="_blank" href="https://phone-b00k.vercel.app">✔︎ Go live</a>
-    <a target="_blank" href="https://github.com/fh-rabbi/phone-book">️𓁹 View code</a>
-  </ul>
+  <li>
+    <h4>Phone-Book</h4>
+    An awesome CRUD web app to store contacts (Phone-Numbers) easily.
+    <div>
+      <a target="_blank" href="https://phone-b00k.vercel.app">✔︎ Go live</a>
+      <a target="_blank" href="https://github.com/fh-rabbi/phone-book">️𓁹 View code</a>
+    </div>
+  </li>
+  <li>
+    <h4>Tech-Canvas</h4>
+    A Next.js-powered Modern,SEO-friendly blog platform.
+    <div>
+      <a target="_blank" href="https://tech-canvas.vercel.app">✔︎ Go live</a>
+      <a target="_blank" href="https://github.com/fh-rabbi/tech-canvas">️𓁹 View code</a>
+    </div>
+  </li>
 </ul>
-<ul>
-  <li><strong>Passport Size Image Maker</strong></li>
-  <ul>
-    <li>Generate Passport Size Image Online With A Moment</li>
-    <a target="_blank" href="https://passport-size-image-maker.vercel.app/">✔︎ Go live</a>
-    <a target="_blank" href="https://github.com/fh-rabbi/Passport-Size-Image-Maker">️𓁹 View code</a>
-  </ul>
-</ul>
+
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fh-rabbi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fazle's github stats" /></a> | <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fh-rabbi&exclude_repo=XploitSpy,Random-Color,Gmail-Bomber,Evil-Text,rMusic,Acode-Backup&layout=compact&theme=buefy&hide_border=true" /></a> |
