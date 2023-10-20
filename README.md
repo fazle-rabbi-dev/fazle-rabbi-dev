@@ -22,12 +22,9 @@
 
 <h2>🚀 Some Technologies I Use</h2>
 <p align="left">
-<a target="_blank" href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a target="_blank" href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a target="_blank" href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a target="_blank" href="" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" width="36" height="36" alt="Prisma" /></a>
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/fh-rabbi/Random-Color/assets/71178740/e348fc1b-31be-4708-8e96-36510ae6fe15" width="36" height="36" alt="JavaScript" /></a>
 <a target="_blank" href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a target="_blank" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a target="_blank" href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a target="_blank" href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
@@ -41,10 +38,13 @@
 <a target="_blank" href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a target="_blank" href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a target="_blank" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a target="_blank" href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a target="_blank" href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a target="_blank" href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a target="_blank" href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a target="_blank" href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a target="_blank" href="" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="36" height="36" alt="React-Query" /></a>
+<a target="_blank" href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/fh-rabbi/Random-Color/assets/71178740/a1ea5733-76e0-4697-a5b0-e1cf0833301f" width="36" height="36" alt="Firebase" /></a>
+<a target="_blank" href="" target="_blank" rel="noreferrer"><img src="https://next-auth.js.org/img/logo/logo-xs.png" width="36" height="36" alt="Nextauth" /></a>
+
 </p>
 
 <h2>✍️ Recent Blogs</h2>
@@ -62,7 +62,7 @@
   </li>
   <li>
     <a target="_blank" href="https://tech-canvas.vercel.app/blog/launch-your-website-for-free-top-7-incredible-web-hosting-platforms">
-      Launch Your Website for FREE: Top 7 Incredible Web Hosting Platforms! 🚀🌐✨
+      Launch Your Website for FREE: Top 7 Incredible Web Hosting Platforms!
     </a>
   </li>
   <li>
@@ -81,16 +81,16 @@
 <h2>⚒️ Some Of My Notable Work</h2>
 <ul>
   <li>
-    <strong>Phone-Book</strong>
-    <p>An awesome CRUD web app to store contacts (Phone-Numbers) easily.</p>
+    <strong>Phone-Book:</strong>
+    An awesome CRUD web app to store contacts (Phone-Numbers) easily.
     <div>
       <a target="_blank" href="https://phone-b00k.vercel.app">✔︎ Go live</a>
       <a target="_blank" href="https://github.com/fh-rabbi/phone-book">️𓁹 View code</a>
     </div>
   </li>
   <li>
-    <strong>Tech-Canvas</strong>
-    <p>A Next.js-powered Modern,SEO-friendly blog platform.</p>
+    <strong>Tech-Canvas:</strong>
+    A Next.js-powered Modern,SEO-friendly blog platform.
     <div>
       <a target="_blank" href="https://tech-canvas.vercel.app">✔︎ Go live</a>
       <a target="_blank" href="https://github.com/fh-rabbi/tech-canvas">️𓁹 View code</a>
