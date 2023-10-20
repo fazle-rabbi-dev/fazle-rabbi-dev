@@ -84,8 +84,8 @@
     <strong>Phone-Book:</strong>
     An awesome CRUD web app to store contacts (Phone-Numbers) easily.
     <div>
-      <a target="_blank" href="https://phone-b00k.vercel.app">✔︎ Go live</a>
-      <a target="_blank" href="https://github.com/fh-rabbi/phone-book">️𓁹 View code</a>
+      <a target="_blank" href="https://phone-b00k.vercel.app">🌐 Go live</a>
+      <a target="_blank" href="https://github.com/fh-rabbi/phone-book">💻️ View code</a>
     </div>
   </li>
   <br />
@@ -93,8 +93,8 @@
     <strong>Tech-Canvas:</strong>
     A Next.js-powered Modern,SEO-friendly blog platform.
     <div>
-      <a target="_blank" href="https://tech-canvas.vercel.app">✔︎ Go live</a>
-      <a target="_blank" href="https://github.com/fh-rabbi/tech-canvas">️𓁹 View code</a>
+      <a target="_blank" href="https://tech-canvas.vercel.app">🌐 Go live</a>
+      <a target="_blank" href="https://github.com/fh-rabbi/tech-canvas">️💻 View code</a>
     </div>
   </li>
 </ul>
