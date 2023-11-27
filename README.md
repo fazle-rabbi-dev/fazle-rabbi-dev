@@ -1,6 +1,8 @@
 <h2 align="center">Hi 👋, I'm Fazle Rabbi</h2>
 
-<p align="center">My expertise lies in the MERN (MongoDB, Express, React, Node.js) stack, a powerful combination that enables me to build full-stack web applications with seamless integration between the front and back ends. From crafting intuitive user interfaces using React to designing robust server-side logic with Node.js, I'm passionate about every aspect of the development process.</p>
+<img src="https://github.com/fazle-rabbi-dev/Random-Color/assets/71178740/92b2155f-8f2d-4205-8bbc-878cc7d8cd4d" alt="" />
+
+<p align="center">My expertise lies in the MERN (MongoDB, Express, React, Node.js) stack, a powerful combination that enables me to build full-stack web applications with seamless integration between the front and back ends.From crafting intuitive user interfaces using React to designing robust server-side logic with Node.js, I'm passionate about every aspect of the development process.</p>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=fazle-rabbi-dev alt="Fazle Rabbi"/> </p>
 
