@@ -1,6 +1,10 @@
-<h1 align="center">Hey 👋, I'm Fazle Rabbi</h1>
+<h2 align="center">Hi 👋, I'm Fazle Rabbi</h2>
 
 <p align="center">My expertise lies in the MERN (MongoDB, Express, React, Node.js) stack, a powerful combination that enables me to build full-stack web applications with seamless integration between the front and back ends. From crafting intuitive user interfaces using React to designing robust server-side logic with Node.js, I'm passionate about every aspect of the development process.</p>
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=fazle-rabbi-dev alt="Fazle Rabbi"/> </p>
+
+<p align="left"> <a href="https://twitter.com/fazle_rabbi_dev" target="blank"><img src="https://img.shields.io/twitter/follow/fazle-rabbi-dev?logo=twitter&style=for-the-badge" alt="Fazle Rabbi" /></a> </p>
 
 <ul>
   <li>🌍 I'm based in Bangladesh</li>
@@ -11,42 +15,24 @@
   <br />
   <li>💬 Ping me about react, next, node, express</li>
   <br />
-  <li>💬 📫 Reach me at <a href="mailto:fazlerabbidev@outlook.com">fazlerabbidev@outlook.com</a></li>
+  <li>📫 Reach me at <a href="mailto:fazlerabbidev@outlook.com">fazlerabbidev@outlook.com</a></li>
   <br />
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/fazle-rabbi-dev?tab=repositories">FazleRabbi</a></li>
   <br />
   <li>🎯 Fun Fact <b>I think im a full stack developer</b></code>!</li>
 </ul>
 
-<h2>Languages and Tools</h2>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a target="_blank" href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank" rel="noreferrer"><img src="https://github.com/fh-rabbi/Random-Color/assets/71178740/e348fc1b-31be-4708-8e96-36510ae6fe15" width="36" height="36" alt="JavaScript" /></a>
-<a target="_blank" href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a target="_blank" href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a target="_blank" href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a target="_blank" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a target="_blank" href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a target="_blank" href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a target="_blank" href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a target="_blank" href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a target="_blank" href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a target="_blank" href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a target="_blank" href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a target="_blank" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a target="_blank" href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a target="_blank" href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a target="_blank" href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a target="_blank" href="" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="36" height="36" alt="React-Query" /></a>
-<a target="_blank" href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/fh-rabbi/Random-Color/assets/71178740/a1ea5733-76e0-4697-a5b0-e1cf0833301f" width="36" height="36" alt="Firebase" /></a>
-<a target="_blank" href="" target="_blank" rel="noreferrer"><img src="https://next-auth.js.org/img/logo/logo-xs.png" width="36" height="36" alt="Nextauth" /></a>
+<a href="https://instagram.com/fazle_rabbi_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Fazle Rabbi" height="30" width="40" /></a>
+<a href="https://twitter.com/fazle_rabbi_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Fazle Rabbi" height="30" width="40" /></a>
+<a href="https://dev.to/fazle-rabbi-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Fazle Rabbi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fazlerabbidev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Fazle Rabbi" height="30" width="40" /></a>
+<a href="https://medium.com/fazle-rabbi-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Fazle Rabbi" height="30" width="40" /></a>
 
-</p>
+<b>✍️ Recent Blogs</b>
 
-<h2>✍️ Recent Blogs</h2>
 <ul>
-  
   <li>
     <a target="_blank" href="https://dev.to/fazle-rabbi-dev/execute-shell-commands-using-nodejs-a-powerful-integration-1fp6">
       How to execute (bash/shell) command using Node.js
@@ -72,7 +58,33 @@
       Life Changing Node.js Modules! Explore now
     </a>
   </li>
-</ul>
+  </ul>
+
+<h3>Languages and Tools:</h3>
+<p align="left">
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a target="_blank" href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank" rel="noreferrer"><img src="https://github.com/fh-rabbi/Random-Color/assets/71178740/e348fc1b-31be-4708-8e96-36510ae6fe15" width="33" height="36" alt="JavaScript" /></a>
+<a target="_blank" href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a target="_blank" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="38" alt="TailwindCSS" /></a>
+<a target="_blank" href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a target="_blank" href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a target="_blank" href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+<a target="_blank" href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<a target="_blank" href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a target="_blank" href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="38" alt="Sass" /></a>
+<a target="_blank" href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a target="_blank" href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a target="_blank" href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a target="_blank" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a target="_blank" href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a target="_blank" href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a target="_blank" href="" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="34" height="32" alt="React-Query" /></a>
+<a target="_blank" href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a target="_blank" href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/fh-rabbi/Random-Color/assets/71178740/a1ea5733-76e0-4697-a5b0-e1cf0833301f" width="36" height="36" alt="Firebase" /></a>
+<a target="_blank" href="" target="_blank" rel="noreferrer"><img src="https://next-auth.js.org/img/logo/logo-xs.png" width="33" height="33" alt="Nextauth" /></a>
+
+</p>
 
 <a href="https://github.com/anuraghazra1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fazle-rabbi-dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fazle's github stats" />
 </a>
