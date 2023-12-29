@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fazle Rabbi</h1>
 
-<p align="center">
+<p>
   I'm a passionate MERN stack developer from Bangladesh. My love for coding is fueled by a diverse range of tech interests, including web, mobile, and desktop app development, along with a keen eye for cybersecurity and ethical hacking. Specializing in web development, I'm committed to becoming a modern full-stack developer.
 </p>
 
