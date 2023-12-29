@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fazle Rabbi</h1>
 
 <p>
-  I'm a passionate MERN stack developer from Bangladesh. My love for coding is fueled by a diverse range of tech interests, including web, mobile, and desktop app development, along with a keen eye for cybersecurity and ethical hacking. Specializing in web development, I'm committed to becoming a modern full-stack developer.
+  I'm a passionate MERN stack developer from Bangladesh 🇧🇩. My love for coding is fueled by a diverse range of tech interests, including web, mobile, and desktop app development, along with a keen eye for cybersecurity and ethical hacking. Specializing in web development, I'm committed to becoming a modern full-stack developer.
 </p>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=fazle-rabbi-dev alt="Fazle Rabbi"/> </p>
@@ -87,7 +87,7 @@
 
 </p>
 
-
+<h3>Github Stats</h3>
 <a href="https://github.com/anuraghazra1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fazle-rabbi-dev&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Fazle's github stats" />
 </a>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fazle-rabbi-dev&exclude_repo=XploitSpy,Random-Color,Gmail-Bomber,Evil-Text,rMusic,Acode-Backup&layout=compact&theme=dracula&hide_border=true" /></a>
