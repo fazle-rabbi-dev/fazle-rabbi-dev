@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋, I'm Fazle Rabbi</h2>
+<h1 align="center">Hi 👋, I'm Fazle Rabbi</h1>
 
-<img src="https://github.com/fazle-rabbi-dev/Random-Color/assets/71178740/92b2155f-8f2d-4205-8bbc-878cc7d8cd4d" alt="" />
-
-<p align="center">My expertise lies in the MERN (MongoDB, Express, React, Node.js) stack, a powerful combination that enables me to build full-stack web applications with seamless integration between the front and back ends.From crafting intuitive user interfaces using React to designing robust server-side logic with Node.js, I'm passionate about every aspect of the development process.</p>
+<p align="center">
+  I'm a passionate MERN stack developer from Bangladesh. My love for coding is fueled by a diverse range of tech interests, including web, mobile, and desktop app development, along with a keen eye for cybersecurity and ethical hacking. Specializing in web development, I'm committed to becoming a modern full-stack developer.
+</p>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=fazle-rabbi-dev alt="Fazle Rabbi"/> </p>
 
@@ -11,7 +11,7 @@
 <ul>
   <li>🌍 I'm based in Bangladesh</li>
   <br />
-  <li>🔭 Im currently enhancing my <b>Backend</b> skills</li>
+  <li>🔭 Im currently <b>building Full stack projects</li>
   <br />
   <li>📝 I write articles on <a target="_blank" href="https://medium.com/@fazle-rabbi-dev">Medium</a>,<a href="https://tech-canvas.vercel.app/">Tech-Canvas</a></li>
   <br />
@@ -87,6 +87,7 @@
 <a target="_blank" href="" target="_blank" rel="noreferrer"><img src="https://next-auth.js.org/img/logo/logo-xs.png" width="33" height="33" alt="Nextauth" /></a>
 
 </p>
+
 
 <a href="https://github.com/anuraghazra1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fazle-rabbi-dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fazle's github stats" />
 </a>
