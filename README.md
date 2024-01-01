@@ -8,21 +8,13 @@
 </p>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=fazle-rabbi-dev alt="Fazle Rabbi"/> </p>
-
 <p align="left"> <a href="https://twitter.com/fazle_rabbi_dev" target="blank"><img src="https://img.shields.io/twitter/follow/fazle-rabbi-dev?logo=twitter&style=for-the-badge" alt="Fazle Rabbi" /></a> </p>
 
 <ul>
-  <br />
   <li>🔭 Im currently <b>building Full stack projects</b></li>
-  <br />
   <li>📝 I write articles on <a target="_blank" href="https://medium.com/@fazle-rabbi-dev">Medium</a> & <a href="https://dev.to/fazle-rabbi-dev">Dev.to</a></li>
-  <br />
   <li>💬 Ping me about React.js, Next.js, Node.js, Express.js</li>
-  <br />
-  <li>📫 Reach me at <a href="mailto:fazlerabbidev@outlook.com">fazlerabbidev@outlook.com</a></li>
-  <br />
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/fazle-rabbi-dev?tab=repositories">Repositories</a></li>
-  <br />
   <li>🎯 Fun Fact <b>I think im a full stack developer</b></code>!</li>
 </ul>
 
@@ -91,6 +83,5 @@
 </p>
 
 <h3>Github Stats</h3>
-<a href="https://github.com/anuraghazra1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fazle-rabbi-dev&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Fazle's github stats" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fazle-rabbi-dev&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Fazle's github stats" />
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fazle-rabbi-dev&exclude_repo=XploitSpy,Random-Color,Gmail-Bomber,Evil-Text,rMusic,Acode-Backup&layout=compact&theme=dracula&hide_border=true" /></a>
