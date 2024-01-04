@@ -84,5 +84,5 @@
 </p>
 
 <h3>Github Stats</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fazle-rabbi-dev&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Fazle's github stats" />
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fazle-rabbi-dev&exclude_repo=XploitSpy,Random-Color,Gmail-Bomber,Evil-Text,rMusic,Acode-Backup&layout=compact&theme=dracula&hide_border=true" /></a>
+<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=fazle-rabbi-dev&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Fazle's github stats" />
+<img width="100%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fazle-rabbi-dev&exclude_repo=XploitSpy,Random-Color,Gmail-Bomber,Evil-Text,rMusic,Acode-Backup&layout=compact&theme=dracula&hide_border=true" /></a>
