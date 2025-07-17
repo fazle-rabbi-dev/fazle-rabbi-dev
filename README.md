@@ -30,6 +30,12 @@
 <b>✍️ Recent Blogs</b>
 
 <ul>
+   <li>
+    <a target="_blank" href="https://bdit.community/t/android-phone-web-development-app-development-coding/5637">
+      🧑‍💻 Learn web/app development using android phone
+    </a>
+  </li>
+  
   <li>
     <a target="_blank" href="https://dev.to/fazle-rabbi-dev/execute-shell-commands-using-nodejs-a-powerful-integration-1fp6">
       How to execute (bash/shell) command using Node.js
