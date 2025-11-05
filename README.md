@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fazle Rabbi</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=3B74F7&background=FF5DE500&center=true&width=435&lines=%F0%9F%8C%8E+Frontend+Developer;%F0%9F%9B%A0%EF%B8%8F+Software+Developer;%E2%AD%90+Full+stack+Enthusiast)](https://git.io/typing-svg)
+
 <p>
   I'm a passionate MERN stack developer from Bangladesh 🇧🇩. My love for coding is fueled by a diverse range of tech interests, including web, mobile, and desktop app development, along with a keen eye for cybersecurity and ethical hacking. 
 </p>
