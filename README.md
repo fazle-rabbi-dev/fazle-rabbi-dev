@@ -26,8 +26,6 @@
 
 </div>
 
----
-
 ## About Me
 
 A software developer who enjoys building software that makes everyday life a little easier, including my own.
