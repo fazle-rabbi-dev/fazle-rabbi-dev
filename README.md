@@ -18,10 +18,10 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://https://fazle-rabbi-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/fazlerabbidev"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:fazlerabbi1343@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/fazle_rabbi_dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 </div>
@@ -30,7 +30,7 @@
 
 ## About Me
 
-I'm a software developer who enjoys building software that makes everyday life a little easier, including my own.
+A software developer who enjoys building software that makes everyday life a little easier, including my own.
 
 I specialize in web development, mostly with the MERN stack and Next.js, and I also build mobile and desktop apps. What excites me most is creating something useful, even if it's a tiny app. I've built a prayer time app, a small calculator, and a YouTube video summarizer, and I use all of them myself. I want to bring software into every aspect of life.
 
