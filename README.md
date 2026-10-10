@@ -1,34 +1,39 @@
-<!-- ========================= HEADER ========================= -->
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=200&section=header&text=Hi,%20I'm%20Fazle%20Rabbi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20•%20MERN%20•%20Next.js%20•%20TypeScript&descSize=16&descAlignY=60" /> -->
-
-<img src='./banner.png' width='100%' />
-
-<div>
+<!-- <img src='./banner.png' width='100%' /> -->
 
 <div align="center">
 
-<a href="https://github.com/fazle-rabbi-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=Building+fast%2C+type-safe+web+apps;Making+everyday+life+a+little+easier;Shipping+with+Next.js+%2B+TypeScript;Using+the+apps+I+build+myself" alt="Typing SVG" />
-</a>
+<!-- Intro -->
+<h1>Hi, I'm Rabbi 👋</h1>
+<p>A software developer who enjoys building software that makes everyday life a little easier, including my own. I ship web apps that drive growth.</p>
+<p>📍 Based in Bangladesh</p>
 
-<p align="center">
+<!-- Typing animation -->
+<!-- <p>
+  <a href="https://github.com/fazle-rabbi-dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=Building+fast%2C+type-safe+web+apps;Making+everyday+life+a+little+easier;Shipping+with+Next.js+%2B+TypeScript;Using+the+apps+I+build+myself" alt="Typing SVG" />
+  </a>
+</p> -->
+
+<!-- Links -->
+<p>
+  <a href="https://fazle-rabbi-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/fazlerabbidev"><img src="https://img.shields.io/badge/LinkedIn-0a66a6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:fazlerabbi1343@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/fazle_rabbi_dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
+
+<!-- Stats -->
+<p>
   <img src="https://komarev.com/ghpvc/?username=fazle-rabbi-dev&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/fazle-rabbi-dev?style=flat-square&color=0ea5e9&logo=github" alt="Followers" />
   <img src="https://img.shields.io/github/stars/fazle-rabbi-dev?style=flat-square&color=0ea5e9&logo=github" alt="Stars" />
 </p>
 
-<p align="center">
-  <a href="https://fazle-rabbi-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/fazlerabbidev"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:fazlerabbi1343@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://x.com/fazle_rabbi_dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-</p>
-
 </div>
 
-## About Me
+---
 
-A software developer who enjoys building software that makes everyday life a little easier, including my own.
+## About Me
 
 I specialize in web development, mostly with the MERN stack and Next.js, and I also build mobile and desktop apps. What excites me most is creating something useful, even if it's a tiny app. I've built a prayer time app, a small calculator, and a YouTube video summarizer, and I use all of them myself. I want to bring software into every aspect of life.
 
@@ -148,9 +153,8 @@ const me = {
 
 ### 📍 Most Used Languages
 
-```
-JavaScript  •  TypeScript  •  Html
-```
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 
 ## Let's Connect
 
