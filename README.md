@@ -55,7 +55,7 @@ const me = {
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🕌 Prayer Time App</h3>
+      <h3>🕌 Prayer_Time_App</h3>
       <p>Accurate daily prayer times with aesthetic vibe. Built because I needed it.</p>
       <p>        
         <img src="https://img.shields.io/badge/HTML-E44D26?style=flat-square&logo=html5&logoColor=white" />
@@ -65,7 +65,7 @@ const me = {
       <a href="https://noor-prayer.surge.sh/">Live</a>
     </td>
     <td width="33%" valign="top">
-      <h3>🌿 Link Leaf</h3>
+      <h3>🌿 Link_Leaf_App</h3>
       <p>Complete working feature rich bio-link/linktree web app.</p>
       <p>
        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
@@ -75,7 +75,7 @@ const me = {
       <a href="https://github.com/fazle-rabbi-dev/link-leaf">Code</a> • <a href="https://link-leaf.vercel.app">Live</a>
     </td>
     <td width="33%" valign="top">
-      <h3>▶️ YouTube Summarizer</h3>
+      <h3>▶️ YouTube_Summarizer</h3>
       <p>Paste a video link, get the key points. Saves hours of watching.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
