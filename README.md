@@ -1,11 +1,11 @@
 <!-- <img src='./banner.png' width='100%' /> -->
 
-<div align="center">
+<div align="">
 
 <!-- Intro -->
 <h1>Hi, I'm Rabbi 👋</h1>
-<p>A software developer who enjoys building software that makes everyday life a little easier, including my own. I ship web apps that drive growth.</p>
-<p>📍 Based in Bangladesh</p>
+<p><b>📍 Based in Bangladesh | 🤖 Building software with agents.</b></p>
+<p>A software developer who enjoys building software that makes everyday life a little easier</p>
 
 <!-- Typing animation -->
 <!-- <p>
@@ -16,10 +16,10 @@
 
 <!-- Links -->
 <p>
-  <a href="https://fazle-rabbi-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:fazlerabbi1343@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+	<a href="https://fazle-rabbi-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/fazlerabbidev"><img src="https://img.shields.io/badge/LinkedIn-0a66a6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:fazlerabbi1343@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://x.com/fazle_rabbi_dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://x.com/fazle_rabbi_dev"><img src="https://img.shields.io/badge/Fazle Rabbi-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 <!-- Stats -->
@@ -151,7 +151,7 @@ const me = {
 <!--
 <img height="400px" width='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazle-rabbi-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=XploitSpy,Random-Color,Gmail-Bomber,Evil-Text,rMusic,Acode-Backup" /> -->
 
-### 📍 Most Used Languages
+### 🏆 Most Used Languages
 
 <p>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -163,10 +163,10 @@ const me = {
 I'm open to collaborations, freelance work, and good conversations about web dev.
 
 <p align="">
-  <a href="https://fazle-rabbi-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/fazlerabbidev"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:fazlerabbi1343@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://x.com/fazle_rabbi_dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+	<a href="https://fazle-rabbi-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/fazlerabbidev"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/fazle_rabbi_dev"><img src="https://img.shields.io/badge/Fazle Rabbi-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 ## Philosophy
