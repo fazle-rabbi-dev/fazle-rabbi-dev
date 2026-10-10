@@ -3,7 +3,7 @@
 <div align="">
 
 <!-- Intro -->
-<h1>Hi, I'm Rabbi 👋</h1>
+<h1>Meet Rabbi 👋</h1>
 <p><b>📍 Based in Bangladesh | 🤖 Building software with agents.</b></p>
 <p>A software developer who enjoys building software that makes everyday life a little easier</p>
 
@@ -15,14 +15,15 @@
 </p> -->
 
 <!-- Links -->
-<p>
-    <a href="mailto:fazlerabbi1343@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-	<a href="https://fazle-rabbi-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/fazlerabbidev"><img src="https://img.shields.io/badge/LinkedIn-0a66a6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/fazle_rabbi_dev"><img src="https://img.shields.io/badge/Fazle Rabbi-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-</p>
-
-<!-- Stats -->
+<p align="left">
+  
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Bun">
+  <img src="https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=gnubash&logoColor=white" alt="CLI">
+  <img src="https://img.shields.io/badge/OPENCODE-374151?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode">
+  
+</p><!-- Stats -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=fazle-rabbi-dev&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/fazle-rabbi-dev?style=flat-square&color=0ea5e9&logo=github" alt="Followers" />
