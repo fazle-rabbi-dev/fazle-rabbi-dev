@@ -153,8 +153,10 @@ const me = {
 
 ### 📍 Most Used Languages
 
+<p>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
 ## Let's Connect
 
