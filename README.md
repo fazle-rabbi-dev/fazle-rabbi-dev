@@ -59,27 +59,28 @@ I specialize in web development, mostly with the MERN stack and Next.js, and I a
 ## Tech Stack
 
 <div>
-<!-- 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vercel,docker,vscode&theme=dark" /> -->
 
-<p>
-  <img height="50" width="60" src="https://img.shields.io/badge/%20-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img height="50" width="60" src="https://img.shields.io/badge/%20-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img height="50" width="60" src="https://img.shields.io/badge/%20-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img height="50" width="60" src="https://img.shields.io/badge/%20-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img height="50" width="60" src="https://img.shields.io/badge/%20-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img height="50" width="60" src="https://img.shields.io/badge/%20-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img height="50" width="60" src="https://img.shields.io/badge/%20-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
-  <img height="50" width="60" src="https://img.shields.io/badge/%20-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img height="50" width="60" src="https://img.shields.io/badge/%20-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img height="50" width="60" src="https://img.shields.io/badge/%20-FF4438?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
-  <img height="50" width="60" src="https://img.shields.io/badge/%20-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk">
-  <img height="50" width="60" src="https://img.shields.io/badge/%20-374151?style=flat-square&logo=opencode&logoColor=white" alt="OpenCode">
-  <img height="50" width="60" src="https://img.shields.io/badge/%20-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img height="50" width="60" src="https://img.shields.io/badge/%20-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img height="50" width="60" src="https://img.shields.io/badge/%20-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-  <img height="50" width="60" src="https://img.shields.io/badge/%20-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<p align="left">
+  <img height="40" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=323330&color=323330" alt="JavaScript">
+  <img height="40" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=3178C6&color=3178C6" alt="TypeScript">
+  <img height="40" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=20232A&color=20232A" alt="React">
+  <img height="40" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=333333&color=000000" alt="Next.js">
+  <img height="40" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=38B2AC&color=38B2AC" alt="Tailwind CSS">
+  <img height="40" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=339933&color=339933" alt="Node.js">
+  <img height="40" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white&labelColor=333333&color=000000" alt="Express.js">
+  <img height="40" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=4169E1&color=4169E1" alt="PostgreSQL">
+  <img height="40" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=47A248&color=47A248" alt="MongoDB">
+  <img height="40" src="https://img.shields.io/badge/Prisma-FF4438?style=flat-square&logo=prisma&logoColor=white&labelColor=FF4438&color=FF4438" alt="Prisma">
+  <img height="40" src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white&labelColor=6C47FF&color=6C47FF" alt="Clerk">
+  <img height="40" src="https://img.shields.io/badge/OpenCode-374151?style=flat-square&logo=opencode&logoColor=white&labelColor=374151&color=374151" alt="OpenCode">
+  <img height="40" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=F05032&color=F05032" alt="Git">
+  <img height="40" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=333333&color=181717" alt="GitHub">
+  <img height="40" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=333333&color=000000" alt="Vercel">
+  <img height="40" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=2496ED&color=2496ED" alt="Docker">
 </p>
+
+<!--
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vercel,docker,vscode&theme=dark" /> -->
 
 <!-- top used languages card -->
 <!-- <p><img width='50%' src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazle-rabbi-dev&theme=github_dark" /></p> -->
