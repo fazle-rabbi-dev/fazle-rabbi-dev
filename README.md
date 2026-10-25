@@ -125,11 +125,15 @@ I specialize in web development, mostly with the MERN stack and Next.js, and I a
 
 I'm open to collaborations, freelance work, and good conversations about web dev.
 
-<p align="left">
-  <a href="mailto:fazlerabbi1343@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Email-fce8e6?style=flat-square&logo=gmail&logoColor=ea4335&labelColor=ffffff" alt="Email" /></a>
-  <a href="https://fazle-rabbi-dev.vercel.app/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Portfolio-e2e8f0?style=flat-square&logo=vercel&logoColor=0f172a&labelColor=ffffff" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/fazlerabbidev" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-d0e8f9?style=flat-square&logo=linkedin&logoColor=0a66c2&labelColor=ffffff" alt="LinkedIn" /></a>
-  <a href="https://x.com/fazle_rabbi_dev" style="text-decoration: none;"><img src="https://img.shields.io/badge/Rabbi-e2e8f0?style=flat-square&logo=x&logoColor=000000&labelColor=ffffff" alt="X" /></a>
+<p align="left" style="display: flex; align-items: center; gap: 8px;">
+  <a href="mailto:fazlerabbi1343@gmail.com" style="text-decoration: none; display: inline-block;"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=ffffff&labelColor=EA4335" alt="Email" />
+  </a>
+  <a href="https://fazle-rabbi-dev.vercel.app/" style="text-decoration: none; display: inline-block;"><img src="https://img.shields.io/badge/Portfolio-2A2522?style=flat-square&logo=vercel&logoColor=F5F0EB&labelColor=2A2522" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/fazlerabbidev" style="text-decoration: none; display: inline-block;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff&labelColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/fazle_rabbi_dev" style="text-decoration: none; display: inline-block;"><img src="https://img.shields.io/badge/Rabbi-2A2522?style=flat-square&logo=x&logoColor=F5F0EB&labelColor=2A2522" alt="Fazle Rabbi" />
+  </a>
 </p>
 
 ## Philosophy
