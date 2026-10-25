@@ -20,11 +20,9 @@ Meet
 
 <!-- Links -->
 <p>
-  <a href="https://fazle-rabbi-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-fazlerabbidev.vercel.app-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
+  <a href="https://fazle-rabbi-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-fazlerabbidev.vercel.app-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
   </a>
-  <a href="https://quiet-stack.vercel.app/">
-    <img src="https://img.shields.io/badge/Blog-quietstack-orange?style=flat-square&logo=hashnode&logoColor=white" alt="Feed">
+  <a href="https://quiet-stack.vercel.app/">    <img src="https://img.shields.io/badge/Blog-quietstack-orange?style=flat-square&logo=hashnode&logoColor=white" alt="Feed">
   </a>
 </p>
 
@@ -54,32 +52,10 @@ I specialize in web development, mostly with the MERN stack and Next.js, and I a
 
 ## ⭐ Featured Projects
 
-<table>
-  <tr>   
-    <td width="33%" valign="top">
-      <h3>🔗 Link-Leaf</h3>
-      <p>Link-Tree/Bio-Link web app to create link in bio page</p>
-      <p>
-       <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-      <a href="https://github.com/fazle-rabbi-dev/link-leaf">Code</a> ~ <a href="https://link-leaf.vercel.app">Live</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>✂️ Tube-Brief</h3>
-      <p>Paste a YT video link, get the key points</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-      <a href="https://github.com/fazle-rabbi-dev/tube-brief">Code</a> ~ <a href="https://tube-brief.vercel.app">Live</a>
-    </td>
-  </tr>
-</table>
-
----
+<div align='center'>
+  <img src='./link-leaf.svg' width='49%' />
+  <img src='./tube-brief.svg' width='49%' />
+</div>
 
 ## Tech Stack
 
@@ -88,27 +64,28 @@ I specialize in web development, mostly with the MERN stack and Next.js, and I a
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vercel,docker,vscode&theme=dark" /> -->
 
 <p>
-  <img height="40" src="https://img.shields.io/badge/%20-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img height="40" src="https://img.shields.io/badge/%20-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img height="40" src="https://img.shields.io/badge/%20-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img height="40" src="https://img.shields.io/badge/%20-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img height="40" src="https://img.shields.io/badge/%20-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img height="40" src="https://img.shields.io/badge/%20-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img height="40" src="https://img.shields.io/badge/%20-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
-  <img height="40" src="https://img.shields.io/badge/%20-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img height="40" src="https://img.shields.io/badge/%20-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img height="40" src="https://img.shields.io/badge/%20-FF4438?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
-  <img height="40" src="https://img.shields.io/badge/%20-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk">
-  <img height="40" src="https://img.shields.io/badge/%20-374151?style=flat-square&logo=opencode&logoColor=white" alt="OpenCode">
-  <img height="40" src="https://img.shields.io/badge/%20-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img height="40" src="https://img.shields.io/badge/%20-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img height="40" src="https://img.shields.io/badge/%20-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-  <img height="40" src="https://img.shields.io/badge/%20-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img height="55" width="68" src="https://img.shields.io/badge/%20-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img height="55" width="68" src="https://img.shields.io/badge/%20-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img height="55" width="68" src="https://img.shields.io/badge/%20-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img height="55" width="68" src="https://img.shields.io/badge/%20-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img height="55" width="68" src="https://img.shields.io/badge/%20-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img height="55" width="68" src="https://img.shields.io/badge/%20-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img height="55" width="68" src="https://img.shields.io/badge/%20-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+  <img height="55" width="68" src="https://img.shields.io/badge/%20-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img height="55" width="68" src="https://img.shields.io/badge/%20-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img height="55" width="68" src="https://img.shields.io/badge/%20-FF4438?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
+  <img height="55" width="68" src="https://img.shields.io/badge/%20-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk">
+  <img height="55" width="68" src="https://img.shields.io/badge/%20-374151?style=flat-square&logo=opencode&logoColor=white" alt="OpenCode">
+  <img height="55" width="68" src="https://img.shields.io/badge/%20-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img height="55" width="68" src="https://img.shields.io/badge/%20-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img height="55" width="68" src="https://img.shields.io/badge/%20-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+  <img height="55" width="68" src="https://img.shields.io/badge/%20-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-</div>
+<!-- top used languages card -->
+<!-- <p><img width='50%' src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazle-rabbi-dev&theme=github_dark" /></p> -->
 
----
+</div>
 
 ## 🏝️ What I'm Doing
 
@@ -116,6 +93,7 @@ I specialize in web development, mostly with the MERN stack and Next.js, and I a
 - **Agentic development** - Exploring AI capabilities and new paradigms in software
 - **Personal software** - Building tools that make my life easier
 
+<!--
 ## Most Used Languages
 
 <p>
@@ -123,7 +101,7 @@ I specialize in web development, mostly with the MERN stack and Next.js, and I a
   <img src="https://img.shields.io/badge/20%25-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript 20%">
   <img src="https://img.shields.io/badge/10%25-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5 10%">
   <img src="https://img.shields.io/badge/5%25-Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind 5%">
-</p>
+</p> -->
 
 ## Latest Blog Posts
 

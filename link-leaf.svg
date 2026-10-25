@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="250" viewBox="0 0 480 250" fill="none" role="img" aria-label="Link-Leaf project card">
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="480" y2="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#34d399"/>
+      <stop offset="0.5" stop-color="#22d3ee" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#a3e635"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0f1a17"/>
+      <stop offset="1" stop-color="#0a0f0e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(440 20) rotate(90) scale(150)">
+      <stop offset="0" stop-color="#34d399" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#34d399" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="icon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#34d399"/>
+      <stop offset="1" stop-color="#a3e635"/>
+    </linearGradient>
+    <linearGradient id="btn" x1="0" y1="0" x2="120" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#34d399"/>
+      <stop offset="1" stop-color="#a3e635"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="478" height="248" rx="18" fill="url(#bg)" stroke="url(#border)" stroke-width="1.5"/>
+  <rect x="1" y="1" width="478" height="248" rx="18" fill="url(#glow)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- icon: leaf -->
+  <rect x="28" y="28" width="48" height="48" rx="14" fill="#34d399" fill-opacity="0.1" stroke="url(#icon)" stroke-width="1.5"/>
+  <g transform="translate(52 52)" stroke="url(#icon)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-10 9 C-12 -4 -2 -12 11 -11 C12 2 4 11 -10 9 Z"/>
+    <path d="M-10 9 L4 -4"/>
+    <animateTransform attributeName="transform" type="translate" values="52 52;52 50;52 52" dur="3s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- title -->
+  <text x="92" y="50" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#ecfdf5">Link-Leaf</text>
+  <text x="92" y="69" font-family="'SFMono-Regular', Consolas, 'Courier New', monospace" font-size="11" letter-spacing="1.5" fill="#34d399">BIO-LINK APP</text>
+
+  <!-- description -->
+  <text font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="15" fill="#9db3ab">
+    <tspan x="28" y="112">Link-Tree / Bio-Link web app to create</tspan>
+    <tspan x="28" y="133">your link-in-bio page.</tspan>
+  </text>
+
+  <!-- tech pills -->
+  <g font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">
+    <rect x="28" y="152" width="82" height="28" rx="14" fill="#000" stroke="#3a3f45"/>
+    <circle cx="44" cy="166" r="4" fill="#fff"/>
+    <text x="54" y="170" fill="#fff">Next.js</text>
+
+    <rect x="118" y="152" width="98" height="28" rx="14" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-opacity="0.6"/>
+    <circle cx="134" cy="166" r="4" fill="#34d399"/>
+    <text x="144" y="170" fill="#a7f3d0">MongoDB</text>
+
+    <rect x="224" y="152" width="106" height="28" rx="14" fill="#3178c6" fill-opacity="0.18" stroke="#3178c6" stroke-opacity="0.7"/>
+    <circle cx="240" cy="166" r="4" fill="#5b9bf0"/>
+    <text x="250" y="170" fill="#bfdbfe">TypeScript</text>
+  </g>
+
+  <!-- divider -->
+  <line x1="28" y1="198" x2="452" y2="198" stroke="#34d399" stroke-opacity="0.15"/>
+
+  <!-- buttons -->
+  <g font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">
+    <a xlink:href="https://github.com/fazle-rabbi-dev/Link-Leaf" href="https://github.com/fazle-rabbi-dev/Link-Leaf" target="_blank">
+      <rect x="28" y="210" width="110" height="30" rx="15" fill="#0d1117" stroke="#34d399" stroke-opacity="0.5" stroke-width="1.5"/>
+      <g stroke="#a7f3d0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M50 220 L45 225 L50 230"/>
+        <path d="M58 220 L63 225 L58 230"/>
+      </g>
+      <text x="72" y="230" fill="#a7f3d0">Code</text>
+    </a>
+    <a xlink:href="https://link-leaf.vercel.app/" href="https://link-leaf.vercel.app/" target="_blank">
+      <rect x="148" y="210" width="128" height="30" rx="15" fill="url(#btn)"/>
+      <circle cx="168" cy="225" r="4" fill="#064e3b">
+        <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+      </circle>
+      <text x="180" y="230" font-weight="700" fill="#052e22">Live Demo</text>
+      <path d="M257 220 L263 220 L263 226 M263 220 L256 227" stroke="#052e22" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </a>
+  </g>
+
+  <!-- featured tag -->
+  <rect x="372" y="24" width="84" height="24" rx="12" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.5"/>
+  <text x="414" y="40" text-anchor="middle" font-family="'SFMono-Regular', Consolas, monospace" font-size="10" letter-spacing="1.5" fill="#6ee7b7">FEATURED</text>
+</svg>
