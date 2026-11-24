@@ -2,7 +2,7 @@
 
 <!-- Intro -->
 <h1>
-Meet
+Hey, I'm
   <span title="portfolio">
   <a href="https://fazle-rabbi-dev.vercel.app/" target="_blank">Rabbi</a> 👋
 </span>
@@ -14,7 +14,7 @@ Meet
 </p>
 <p>
   <i>
-    A software developer who enjoys building software that makes everyday life a little easier
+    I build websites and web apps | Always experimenting with new tools and workflows
   </i>
 </p>
 
@@ -45,16 +45,31 @@ Meet
 
 </div>
 
-## About Me
+## About
 
-I specialize in web development, mostly with the MERN stack and Next.js, and I also build mobile and desktop apps. What excites me most is creating useful software that improves human life, even if it's a tiny app. I've built a prayer time app, a small calculator, and a YouTube video summarizer, and I use all of them myself.
+I'm a software developer focused on web development – I build websites and application software for the web, and occasionally for mobile and desktop.
 
-## ⭐ Featured Projects
+I specialize in the MERN / Next.js / TypeScript stack, which is where I spend most of my time and enjoy working the most.
 
-<div align='center'>
-  <a href='https://github.com/fazle-rabbi-dev/Link-Leaf'><img src='./link-leaf.svg' width='49%' height='300' /></a>
-  <a href='https://github.com/fazle-rabbi-dev/Tube-Brief'><img src='./tube-brief.svg' width='49%' height='300' /></a>
-</div>
+My setup: Windows 11, Herdr, Nushell, Zen Browser, and a few custom AutoHotkey scripts to move faster.
+
+## Projects
+### Carefully crafted 
+
+- ✂️ [**Tube-Brief**](https://github.com/fazle-rabbi-dev/Tube-Brief) - Paste a YouTube video url and get the summary 
+- 🌴 [**Link-Leaf**](https://github.com/fazle-rabbi-dev/Link-Leaf) - Highly customizable Linktree web app, build your bio link instantly with pre designed template 
+- ✍️ [**QuietStack**](https://github.com/fazle-rabbi-dev/quiet-stack) - Personal blog site crafted with Next.js
+
+### Vibe coded
+
+- 🏞️ [**Story Book**](https://story-book-fr.vercel.app/) - Storybook web app about the prophet's story
+- 🧩 [**WebView Apk Template**](https://github.com/fazle-rabbi-dev/Web-View-Apk-Template) - A crazy template for building tiny-sized Android app with `HTML/CSS/JS` and **Vite + React**
+- ⏰ [**Ambient Time**](https://github.com/the-softcraft/Ambient-Time) - Standby clock android app built with above template 
+- 🐺 [**NodeWolf**]() - Rust CLI to cleanup node_modules
+- 🔧 [**Portmaster**]() - Rust CLI to view and kill open port
+- ⚙️ [**Prox**]() - Rust CLI to to configure windows system proxy easily 
+- 🧲 [**Graft**]() - Rust CLI to to download sub directory of github repo
+- 🔨 [**Grove**]() - CLI to manage git worktree for agentic work
 
 ## Tech Stack
 
@@ -87,9 +102,9 @@ I specialize in web development, mostly with the MERN stack and Next.js, and I a
 
 </div>
 
-## 🏝️ What I'm Doing
+## ⚒️ What I'm Doing
 
-- **Rapid prototyping** - Full apps in days, not months
+- **Quick prototyping** - Full apps in days, not months
 - **Agentic development** - Exploring AI capabilities and new paradigms in software
 - **Personal software** - Building tools that make my life easier
 
